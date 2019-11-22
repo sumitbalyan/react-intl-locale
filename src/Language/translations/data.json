@@ -1,0 +1,8 @@
+{
+    "en-US": {
+        "helloWorld": "Hello world!!"
+    },
+    "fr-CA": {
+        "helloWorld": "Bonjour le monde!!"
+    }
+}
